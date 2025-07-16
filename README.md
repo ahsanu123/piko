@@ -1,5 +1,23 @@
+<h1>🐤 piko </h1>
+<p>
+  <a href="">
+    <img alt="npm version" src="https://badgen.net/github/commits/ahsanu123/piko">
+  </a>
+  <a href="">
+    <img alt="npm" src="https://badgen.net/github/contributors/ahsanu123/piko">
+  </a>
+  <a href="">
+    <img alt="npm" src="https://badgen.net/github/branches/ahsanu123/piko">
+  </a>
+  <a href="https://github.com/ahsanu123/piko/blob/main/LICENSE">
+    <img alt="licence" src="https://badgen.net/github/license/ahsanu123/piko">
+  </a>
+</p>
 
-<h1 align="center">🐤 piko </h1>
+<p align="center">
+  <img width="902" height="611" align="center" alt="image" src="https://github.com/user-attachments/assets/735ace11-b3e2-49af-879c-02dadaf8f48b" />
+</p>
+
 <p align="center">CMSIS DAP Probe</p>
 
 ## Reference
