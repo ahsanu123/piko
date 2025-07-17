@@ -6846,6 +6846,7 @@
 	)
 	(label "SIGROK_IN8"
 		(at 204.47 71.12 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6889,6 +6890,7 @@
 	)
 	(label "SIGROK_IN4"
 		(at 204.47 58.42 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6943,6 +6945,7 @@
 	)
 	(label "SIGROK_IN7"
 		(at 204.47 68.58 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7030,6 +7033,7 @@
 	)
 	(label "SIGROK_IN2"
 		(at 204.47 53.34 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7051,6 +7055,7 @@
 	)
 	(label "SIGROK_IN3"
 		(at 204.47 55.88 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7094,6 +7099,7 @@
 	)
 	(label "SIGROK_IN1"
 		(at 204.47 50.8 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7126,6 +7132,7 @@
 	)
 	(label "SIGROK_IN5"
 		(at 204.47 60.96 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7180,6 +7187,7 @@
 	)
 	(label "SIGROK_IN6"
 		(at 204.47 63.5 180)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -11932,7 +11940,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Horizontal"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x07_P2.54mm_Vertical"
 			(at 214.63 58.42 0)
 			(effects
 				(font
