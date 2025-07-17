@@ -14,8 +14,8 @@
   </a>
 </p>
 
-<p align="center">
-  <img width="1724" height="765" alt="image" src="https://github.com/user-attachments/assets/41806449-af68-41e9-98fd-f3c8dc54f5f7" />
+<p align="center">  
+  <img width="1776" height="782" alt="image" src="https://github.com/user-attachments/assets/693d8a60-4ca3-4bea-b433-0e9420d56c6d" />
 </p>
 
 <p align="center">CMSIS DAP Probe</p>
