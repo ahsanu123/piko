@@ -5,10 +5,10 @@
 	(uuid "acad0ee0-2ac2-4516-b2b7-53e1758dc208")
 	(paper "A4")
 	(title_block
-		(title "PicoLink")
-		(date "2023-02-27")
+		(title "Piko")
+		(date "2025-07-17")
 		(rev "V0.1")
-		(company "HSLU")
+		(company "AHAH_TERROR")
 	)
 	(lib_symbols
 		(symbol "Connector:Conn_ARM_JTAG_SWD_10"
