@@ -15,10 +15,14 @@
 </p>
 
 <p align="center">  
-  <img width="1776" height="782" alt="image" src="https://github.com/user-attachments/assets/693d8a60-4ca3-4bea-b433-0e9420d56c6d" />
+ <img width="1852" height="797" alt="image" src="https://github.com/user-attachments/assets/1939dc89-643f-4268-89cb-0ff7df352ef1" />
 </p>
 
 <p align="center">CMSIS DAP Probe</p>
+
+### 🧺 Schematic
+
+![schematic](./documentation/PicoLink.svg)
 
 ## Reference
 
